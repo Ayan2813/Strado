@@ -21,7 +21,7 @@
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>GMSApiKey</key>
-	<string>AIzaSyD2rNonsfe60zmaceFkl_f31LZa6kDuidE</string>
+	
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
