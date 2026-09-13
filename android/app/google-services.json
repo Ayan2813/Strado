@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "747397545732",
-    "firebase_url": "https://collegebustracker-43147-default-rtdb.firebaseio.com",
+    "project_number": ,
+    "firebase_url": 
     "project_id": "collegebustracker-43147",
     "storage_bucket": "collegebustracker-43147.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:747397545732:android:28e5558ef09acb09cb5a51",
+        "mobilesdk_app_id":
         "android_client_info": {
           "package_name": "com.example.untitled"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBuJyB1f5hGMibQ1P3UYDzvLnjcVmIcXjA"
+          "current_key": 
         }
       ],
       "services": {
